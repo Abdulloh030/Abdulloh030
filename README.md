@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there, I'm Muhammadzohid! 👋
 
-<!--
-**Abdulloh030/Abdulloh030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | Future Full-Stack Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about programming, web development, and modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 👨‍💻 I'm interested in Web Development.
+- 🌱 Currently learning **React.js and JavaScript**.
+- 🎯 My goal is to become a professional Full-Stack Developer.
+- 🤖 Interested in Artificial Intelligence.
+- ⚡ I love learning new technologies and building creative projects.
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+- Telegram: [@YOUR_TELEGRAM](https://t.me/YOUR_TELEGRAM)
+- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
+---
+
+<p align="center">
+  <b>✨ Thanks for visiting my profile! ✨</b>
+</p>
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
