@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammadzohid! 👋
+# Hi there, I'm Abdulloh! 👋
 
 ### 💻 Frontend Developer | Future Full-Stack Developer
 
@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm passionate about programming, web development,
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulloh030&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulloh030&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about programming, web development,
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Abdulloh030&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
